@@ -1,0 +1,48 @@
+
+h2 {   
+    color:blue;
+    padding:10px;    
+}
+.innews{
+    background-color:#2072ef;
+    height:850px;
+    margin:20px;
+    color:white;
+    text-align: center;  
+}
+h1{
+    font-size: 50px;
+   
+}
+.list li {
+    list-style: none;
+    margin:50px;
+} 
+ .list  {   
+     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ hr {
+     border :1px solid whitesmoke;
+     opacity: 0.5;
+ }
+ .count{
+     display: flex;
+     flex-direction: row;
+     
+   
+      }
+      .count >div{
+          margin-top:20px;
+          margin-left :200px;
+      }
+      .count h1{
+          font-size: 68px;
+          line-height: 70px;
+      }
+      .count p {
+          font-size: 18px;
+      }

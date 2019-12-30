@@ -1,0 +1,83 @@
+.container1,.rocket,.barriercont,.feature{
+    display: flex;
+    flex-direction: row;
+}
+.container1>div{
+    margin-left:60px;
+    padding:20px;
+    line-height: 1.6;  
+    font-size: 20px;  
+
+}
+.container1 input{
+    height:50px;
+    width:400px;
+    border-radius: 20px;
+}
+.container1 button{
+    height:50px;
+    width:100px;
+    border-radius: 30px;
+    color:blue;
+}
+
+.rocket img {
+    margin-top:-40px;
+    margin-left:60px;
+}
+.buycrypto{
+    display: flex;
+    flex-basis: row;        
+    background-color: lightgrey;
+    height : 100px; 
+    border-radius: 16px;
+    line-height: 1.6;
+}
+.buycrypto button{
+    height:60px;
+    margin :20px;
+    border-radius: 30px;
+    background-color: blue;
+    color:white;
+    font-size: 20px;
+}
+.clutterimg,.stressimg{
+    display: flex;
+    flex-direction: row;
+    margin-top:100px;
+}
+.clutterimg >img ,.stressimg >img{
+  margin-left: 100px;  
+  
+}
+.clutter,.stress,.barrier{
+    margin-top:100px;
+    margin-left:150px;
+    line-height: 1.6;
+    font-size: 20px;
+}
+.feature{
+    margin-left:50px;   
+}
+.barriercont img{
+    margin-left: 150px;
+}
+/* .barriercont{
+    display: flex;
+    flex-direction: row;
+} */
+.likepro{
+    text-align: center;
+}
+.likepro img {   
+    margin: 50px;
+}
+.likepro p {   
+    color:grey;
+    padding:10px;
+    font-size: 20px;
+}
+h2 {   
+    color:blue;
+    padding:10px;    
+}

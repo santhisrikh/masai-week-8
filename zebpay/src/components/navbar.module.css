@@ -1,0 +1,27 @@
+
+.topnav {
+    overflow: hidden;  
+    margin-bottom: 150px;
+  }  
+  .topnav a {
+    float: left;
+    color: blue;
+    text-align: justify;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .navleft{
+    float: right;
+  }
+  .navleft button{
+    background-color:#2072ef;
+    border-radius: 30px;
+    height: 40px;
+    color:white;
+  }
